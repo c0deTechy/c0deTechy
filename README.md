@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0deTechy
 - 👀 I’m interested in wordpress
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on wordpress opensource project
 
 <!---
